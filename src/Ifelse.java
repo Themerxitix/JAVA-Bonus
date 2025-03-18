@@ -94,7 +94,6 @@ public class Ifelse
     //opdrcht 5
     private static void ageClasification(int age)
     {
-        //wil je mij van feedback voorzien voor deze opdracht? het werkt maar als ik de volgorde verander van de if's dan doe die niet wat ik had bedacht. is er een betere manier?
         if (age > 65)
         {
             System.out.println("Je bent een senior");
